@@ -1,0 +1,126 @@
+<!doctype html>
+<html lang="zh-Hant">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>GoodSon Studio</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Orbitron:wght@500;700&family=Rajdhani:wght@400;500;600;700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="icon" type="image/x-icon" href="../assets/logo.ico" />
+    <link rel="stylesheet" href="../style.css" />
+  </head>
+  <body
+    data-page="games"
+    data-root-path="../"
+    data-settings-path="../setting.json"
+  >
+    <header class="site-header">
+      <a id="brand-link" class="brand" href="./"></a>
+      <div class="site-header-actions">
+        <button
+          id="menu-toggle"
+          class="menu-toggle"
+          type="button"
+          data-action="toggle-menu"
+          aria-label=""
+          aria-expanded="false"
+          aria-controls="nav-list"
+        ></button>
+        <nav class="site-nav" aria-label="">
+          <ul id="nav-list"></ul>
+        </nav>
+        <div
+          id="lang-switch"
+          class="lang-switch"
+          role="group"
+          aria-label=""
+        ></div>
+      </div>
+    </header>
+
+    <main>
+      <section id="philosophy" class="content-section">
+        <header class="section-header">
+          <h2 id="philosophy-title"></h2>
+        </header>
+        <div id="philosophy-grid" class="philosophy-grid"></div>
+      </section>
+
+      <section id="videos" class="content-section">
+        <header class="section-header">
+          <h2 id="videos-title"></h2>
+        </header>
+        <div id="videos-grid" class="media-grid"></div>
+      </section>
+
+      <section id="games" class="content-section">
+        <header class="section-header">
+          <h2 id="games-title"></h2>
+        </header>
+        <div id="games-grid" class="media-grid"></div>
+      </section>
+
+      <section id="photography" class="content-section">
+        <header class="section-header">
+          <h2 id="photography-title"></h2>
+        </header>
+        <div id="photography-grid" class="media-grid"></div>
+      </section>
+
+      <section id="partners" class="content-section">
+        <header class="section-header">
+          <h2 id="partners-title"></h2>
+        </header>
+        <div id="partners-grid" class="partner-masonry"></div>
+      </section>
+
+      <section id="contact" class="content-section">
+        <header class="section-header">
+          <h2 id="contact-title"></h2>
+        </header>
+        <div class="contact-panel">
+          <img id="line-qr" class="line-qr" alt="" />
+          <div class="contact-links">
+            <a
+              id="line-link"
+              class="contact-link"
+              target="_blank"
+              rel="noopener noreferrer"
+            ></a>
+            <a id="email-link" class="contact-link"></a>
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <p id="footer-text"></p>
+    </footer>
+
+    <div id="modal" class="modal" hidden>
+      <div class="modal-scrim" data-action="close-modal"></div>
+      <div
+        class="modal-dialog"
+        role="dialog"
+        aria-modal="true"
+        aria-labelledby="modal-title"
+      >
+        <button
+          id="modal-close"
+          class="modal-close"
+          type="button"
+          data-action="close-modal"
+          aria-label=""
+        ></button>
+        <h3 id="modal-title"></h3>
+        <div id="modal-body"></div>
+      </div>
+    </div>
+
+    <script src="../main.js" defer></script>
+  </body>
+</html>

@@ -1,0 +1,2145 @@
+{
+  "site_config": {
+    "site_title": {
+      "zh": "GoodSon Studio",
+      "en": "GoodSon Studio"
+    },
+    "language_tag": {
+      "zh": "zh-Hant",
+      "en": "en"
+    },
+    "default_language": "zh",
+    "available_languages": [
+      "zh",
+      "en"
+    ],
+    "language_names": {
+      "zh": {
+        "zh": "中文",
+        "en": "中文"
+      },
+      "en": {
+        "zh": "English",
+        "en": "English"
+      }
+    },
+    "theme_colors": [
+      "#000000",
+      "#152331"
+    ],
+    "responsive_grid": {
+      "desktop": 3,
+      "tablet": 2,
+      "mobile": 1
+    },
+    "section_titles": {
+      "home": {
+        "zh": "首頁",
+        "en": "Home"
+      },
+      "philosophy": {
+        "zh": "從遊戲教學到冠軍巔峰\n從形象拍攝到產品開箱",
+        "en": "From Game Tutorials to Championship Peaks\nFrom Brand Shoots to Product Unboxings"
+      },
+      "videos": {
+        "zh": "長&短開箱",
+        "en": "Videos"
+      },
+      "games": {
+        "zh": "遊戲評測",
+        "en": "Games"
+      },
+      "photography": {
+        "zh": "靜態圖文",
+        "en": "Photography"
+      },
+      "partners": {
+        "zh": "合作廠商",
+        "en": "Partners"
+      },
+      "contact": {
+        "zh": "聯絡我們",
+        "en": "Contact Us"
+      }
+    },
+    "navigation": [
+      {
+        "key": "home",
+        "path": "home",
+        "label": {
+          "zh": "首頁",
+          "en": "Home"
+        }
+      },
+      {
+        "key": "videos",
+        "path": "videos",
+        "label": {
+          "zh": "長&短開箱",
+          "en": "Videos"
+        }
+      },
+      {
+        "key": "games",
+        "path": "games",
+        "label": {
+          "zh": "遊戲評測",
+          "en": "Games"
+        }
+      },
+      {
+        "key": "photography",
+        "path": "photography",
+        "label": {
+          "zh": "靜態圖文",
+          "en": "Photography"
+        }
+      },
+      {
+        "key": "partners",
+        "path": "partners",
+        "label": {
+          "zh": "合作廠商",
+          "en": "Partners"
+        }
+      },
+      {
+        "key": "contact",
+        "path": "contact",
+        "label": {
+          "zh": "聯絡我們",
+          "en": "Contact Us"
+        }
+      }
+    ],
+    "labels": {
+      "play_video": {
+        "zh": "播放影片",
+        "en": "Play Video"
+      },
+      "open_image": {
+        "zh": "查看圖文",
+        "en": "Open Image"
+      },
+      "line_link_text": {
+        "zh": "LINE 官方帳號",
+        "en": "Open Official LINE"
+      },
+      "email_label": {
+        "zh": "電子郵件",
+        "en": "Email"
+      },
+      "close_label": {
+        "zh": "關閉",
+        "en": "Close"
+      },
+      "lang_switch_aria": {
+        "zh": "語言切換",
+        "en": "Language Switch"
+      },
+      "nav_aria": {
+        "zh": "主導航",
+        "en": "Main Navigation"
+      },
+      "menu_open": {
+        "zh": "Menu",
+        "en": "Menu"
+      },
+      "menu_close": {
+        "zh": "Menu",
+        "en": "Menu"
+      },
+      "loading_image": {
+        "zh": "載入圖文中...",
+        "en": "Loading image..."
+      },
+      "youtube_modal_title": {
+        "zh": "YouTube 影片",
+        "en": "YouTube Videos"
+      },
+      "instagram_modal_title": {
+        "zh": "Instagram Reels",
+        "en": "Instagram Reels"
+      }
+    },
+    "footer_text": {
+      "zh": "2026© GoodSon Studio. All Rights Reserved.\ngoodwork0706@gmail.com",
+      "en": "2026© GoodSon Studio. All Rights Reserved.\ngoodwork0706@gmail.com"
+    }
+  },
+  "home": {
+    "video_bg": "assets/hero_bg.mp4",
+    "logo_path": "assets/logo_transparent.png",
+    "logo_alt": {
+      "zh": "GoodSon Studio logo",
+      "en": "GoodSon Studio logo"
+    },
+    "headline": {
+      "zh": "",
+      "en": ""
+    },
+    "description": {
+      "zh": "",
+      "en": ""
+    },
+    "scroll_hint": {
+      "zh": "向下捲動探索",
+      "en": "Scroll to explore"
+    }
+  },
+  "philosophy": [
+    {
+      "id": 1,
+      "title": {
+        "zh": "",
+        "en": ""
+      },
+      "paragraphs": {
+        "zh": [
+          "您好！我是乖兒子\n總是鑽研遊戲、沉迷創作、熱衷各方面挑戰\n喜歡在內心扮演不同角色，從不同角度去思考\n以成為別人貴人的思維，來經營 GoodSon Studio。",
+          "隨著觀眾人數增加，除了維持做品牌的初衷\n也盡可能的關注每則留言與私訊\n給觀眾們最大的信任。",
+          "越來越多合作廠商的邀約\n我也將以資深玩家的角度出發\n從策略討論、創意腳本、B-roll 質感\n做出貼近玩家真正想看、想感受的內容\n為您的品牌打造客製化方案，給出有影響力的數據。",
+          "很高興認識大家\nGoodSon Studio 會持續為您帶來高 CP 值服務"
+        ],
+        "en": [
+          "Hi, I am GoodSon\nI am always studying games, immersed in creation, and eager to take on challenges.\nI like to think from different roles and perspectives, running GoodSon Studio with the mindset of becoming someone valuable to others.",
+          "As the audience grows, we keep the original intention of building the brand.\nWe also pay close attention to every comment and private message, giving the audience the strongest sense of trust.",
+          "With more brand collaboration invitations, I approach every project from a veteran player perspective.\nFrom strategy discussion, creative scripts, and B-roll texture, we create content players truly want to watch and feel.\nWe build customized solutions for your brand and deliver data with real impact.",
+          "It is a pleasure to meet everyone.\nGoodSon Studio will continue delivering high-value service for you."
+        ]
+      },
+      "emphasis_text": {
+        "zh": "很高興認識大家\nGoodSon Studio 會持續為您帶來高 CP 值服務",
+        "en": "It is a pleasure to meet everyone.\nGoodSon Studio will continue delivering high-value service for you."
+      },
+      "image_path": "assets/philosophy/philosophy.png",
+      "image_alt": {
+        "zh": "乖兒子團隊與理念形象照片",
+        "en": "GoodSon team and philosophy image"
+      }
+    }
+  ],
+  "videos": [
+    {
+      "title": {
+        "zh": "",
+        "en": ""
+      },
+      "description": {
+        "zh": "",
+        "en": ""
+      },
+      "youtube_id": "F9XcJ8Maqb0",
+      "thumbnail": ""
+    },
+    {
+      "title": {
+        "zh": "",
+        "en": ""
+      },
+      "description": {
+        "zh": "",
+        "en": ""
+      },
+      "youtube_id": "qSVJi5_W1Lo",
+      "thumbnail": ""
+    },
+    {
+      "title": {
+        "zh": "",
+        "en": ""
+      },
+      "description": {
+        "zh": "",
+        "en": ""
+      },
+      "youtube_id": "O4VGkrWw6QA",
+      "thumbnail": ""
+    },
+    {
+      "title": {
+        "zh": "",
+        "en": ""
+      },
+      "description": {
+        "zh": "",
+        "en": ""
+      },
+      "youtube_id": "kuDLzlxSmbM",
+      "thumbnail": ""
+    },
+    {
+      "title": {
+        "zh": "",
+        "en": ""
+      },
+      "description": {
+        "zh": "",
+        "en": ""
+      },
+      "youtube_id": "UZq2WIUZMl4",
+      "thumbnail": ""
+    },
+    {
+      "title": {
+        "zh": "",
+        "en": ""
+      },
+      "description": {
+        "zh": "",
+        "en": ""
+      },
+      "youtube_id": "NsS7Y_J-zXA",
+      "thumbnail": ""
+    },
+    {
+      "title": {
+        "zh": "",
+        "en": ""
+      },
+      "description": {
+        "zh": "",
+        "en": ""
+      },
+      "youtube_id": "BawOtwvoJ2c",
+      "thumbnail": ""
+    },
+    {
+      "title": {
+        "zh": "",
+        "en": ""
+      },
+      "description": {
+        "zh": "",
+        "en": ""
+      },
+      "youtube_id": "OL5Xe3UOqDU",
+      "thumbnail": ""
+    },
+    {
+      "title": {
+        "zh": "",
+        "en": ""
+      },
+      "description": {
+        "zh": "",
+        "en": ""
+      },
+      "youtube_id": "-oBByQ8Np8M",
+      "thumbnail": ""
+    },
+    {
+      "title": {
+        "zh": "",
+        "en": ""
+      },
+      "description": {
+        "zh": "",
+        "en": ""
+      },
+      "youtube_id": "PIFC2YVG6k8",
+      "thumbnail": ""
+    },
+    {
+      "title": {
+        "zh": "",
+        "en": ""
+      },
+      "description": {
+        "zh": "",
+        "en": ""
+      },
+      "youtube_id": "ZlyEZJAcaHw",
+      "thumbnail": ""
+    },
+    {
+      "title": {
+        "zh": "",
+        "en": ""
+      },
+      "description": {
+        "zh": "",
+        "en": ""
+      },
+      "youtube_id": "lxH2vxnAVFc",
+      "thumbnail": ""
+    },
+    {
+      "title": {
+        "zh": "",
+        "en": ""
+      },
+      "description": {
+        "zh": "",
+        "en": ""
+      },
+      "youtube_id": "WZ63IthLfaA",
+      "thumbnail": ""
+    },
+    {
+      "title": {
+        "zh": "",
+        "en": ""
+      },
+      "description": {
+        "zh": "",
+        "en": ""
+      },
+      "youtube_id": "0_MXt5xhY9Y",
+      "thumbnail": ""
+    },
+    {
+      "title": {
+        "zh": "",
+        "en": ""
+      },
+      "description": {
+        "zh": "",
+        "en": ""
+      },
+      "youtube_id": "SJkNcztttlM",
+      "thumbnail": ""
+    },
+    {
+      "title": {
+        "zh": "",
+        "en": ""
+      },
+      "description": {
+        "zh": "",
+        "en": ""
+      },
+      "youtube_id": "N4001oeViZk",
+      "thumbnail": ""
+    },
+    {
+      "title": {
+        "zh": "",
+        "en": ""
+      },
+      "description": {
+        "zh": "",
+        "en": ""
+      },
+      "youtube_id": "jab_0CNCqnM",
+      "thumbnail": ""
+    },
+    {
+      "title": {
+        "zh": "",
+        "en": ""
+      },
+      "description": {
+        "zh": "",
+        "en": ""
+      },
+      "youtube_id": "OTzBnWUVQH8",
+      "thumbnail": ""
+    },
+    {
+      "title": {
+        "zh": "",
+        "en": ""
+      },
+      "description": {
+        "zh": "",
+        "en": ""
+      },
+      "youtube_id": "a9fc2ADKGAY",
+      "thumbnail": ""
+    },
+    {
+      "title": {
+        "zh": "",
+        "en": ""
+      },
+      "description": {
+        "zh": "",
+        "en": ""
+      },
+      "youtube_id": "kMLjlK3Wni4",
+      "thumbnail": ""
+    },
+    {
+      "title": {
+        "zh": "",
+        "en": ""
+      },
+      "description": {
+        "zh": "",
+        "en": ""
+      },
+      "youtube_id": "kY8xOPc19tE",
+      "thumbnail": ""
+    },
+    {
+      "title": {
+        "zh": "",
+        "en": ""
+      },
+      "description": {
+        "zh": "",
+        "en": ""
+      },
+      "youtube_id": "AIFThxMhHk8",
+      "thumbnail": ""
+    },
+    {
+      "title": {
+        "zh": "",
+        "en": ""
+      },
+      "description": {
+        "zh": "",
+        "en": ""
+      },
+      "youtube_id": "w9sUGdK_mus",
+      "thumbnail": ""
+    },
+    {
+      "title": {
+        "zh": "",
+        "en": ""
+      },
+      "description": {
+        "zh": "",
+        "en": ""
+      },
+      "youtube_id": "RQKWEAwFj0g",
+      "thumbnail": ""
+    },
+    {
+      "title": {
+        "zh": "",
+        "en": ""
+      },
+      "description": {
+        "zh": "",
+        "en": ""
+      },
+      "youtube_id": "RQKWEAwFj0g",
+      "thumbnail": ""
+    },
+    {
+      "title": {
+        "zh": "",
+        "en": ""
+      },
+      "description": {
+        "zh": "",
+        "en": ""
+      },
+      "youtube_id": "zCdENIUo4SE",
+      "thumbnail": ""
+    }
+  ],
+  "games": [
+    {
+      "title": {
+        "zh": "",
+        "en": ""
+      },
+      "description": {
+        "zh": "",
+        "en": ""
+      },
+      "youtube_id": "ru3ekDtLs-k",
+      "thumbnail": ""
+    },
+    {
+      "title": {
+        "zh": "",
+        "en": ""
+      },
+      "description": {
+        "zh": "",
+        "en": ""
+      },
+      "youtube_id": "mjmXQkUekgA",
+      "thumbnail": ""
+    },
+    {
+      "title": {
+        "zh": "",
+        "en": ""
+      },
+      "description": {
+        "zh": "",
+        "en": ""
+      },
+      "youtube_id": "5zOplDproVg",
+      "thumbnail": ""
+    },
+    {
+      "title": {
+        "zh": "",
+        "en": ""
+      },
+      "description": {
+        "zh": "",
+        "en": ""
+      },
+      "youtube_id": "mjmXQkUekgA",
+      "thumbnail": ""
+    },
+    {
+      "title": {
+        "zh": "",
+        "en": ""
+      },
+      "description": {
+        "zh": "",
+        "en": ""
+      },
+      "youtube_id": "Vi68MgCEv_c",
+      "thumbnail": ""
+    },
+    {
+      "title": {
+        "zh": "",
+        "en": ""
+      },
+      "description": {
+        "zh": "",
+        "en": ""
+      },
+      "youtube_id": "eVKfsTlIc0s",
+      "thumbnail": ""
+    },
+    {
+      "title": {
+        "zh": "",
+        "en": ""
+      },
+      "description": {
+        "zh": "",
+        "en": ""
+      },
+      "youtube_id": "orQ_897PjxM",
+      "thumbnail": ""
+    },
+    {
+      "title": {
+        "zh": "",
+        "en": ""
+      },
+      "description": {
+        "zh": "",
+        "en": ""
+      },
+      "youtube_id": "HVy5zU1NDU8",
+      "thumbnail": ""
+    },
+    {
+      "title": {
+        "zh": "",
+        "en": ""
+      },
+      "description": {
+        "zh": "",
+        "en": ""
+      },
+      "youtube_id": "eBcasYoWZO8",
+      "thumbnail": ""
+    },
+    {
+      "title": {
+        "zh": "",
+        "en": ""
+      },
+      "description": {
+        "zh": "",
+        "en": ""
+      },
+      "youtube_id": "A6ElMshvnR8",
+      "thumbnail": ""
+    },
+    {
+      "title": {
+        "zh": "",
+        "en": ""
+      },
+      "description": {
+        "zh": "",
+        "en": ""
+      },
+      "youtube_id": "Y8fviumQYEc",
+      "thumbnail": ""
+    },
+    {
+      "title": {
+        "zh": "",
+        "en": ""
+      },
+      "description": {
+        "zh": "",
+        "en": ""
+      },
+      "youtube_id": "s5NK7N5TYms",
+      "thumbnail": ""
+    },
+    {
+      "title": {
+        "zh": "",
+        "en": ""
+      },
+      "description": {
+        "zh": "",
+        "en": ""
+      },
+      "youtube_id": "Leo68udYv-U",
+      "thumbnail": ""
+    },
+    {
+      "title": {
+        "zh": "",
+        "en": ""
+      },
+      "description": {
+        "zh": "",
+        "en": ""
+      },
+      "youtube_id": "t2EeWnobQSY",
+      "thumbnail": ""
+    },
+    {
+      "title": {
+        "zh": "",
+        "en": ""
+      },
+      "description": {
+        "zh": "",
+        "en": ""
+      },
+      "youtube_id": "koC3BA1TNmw",
+      "thumbnail": ""
+    },
+    {
+      "title": {
+        "zh": "",
+        "en": ""
+      },
+      "description": {
+        "zh": "",
+        "en": ""
+      },
+      "youtube_id": "ZAq-ILbqU6w",
+      "thumbnail": ""
+    }
+  ],
+  "photography": [
+    {
+      "type": "instagram_embed",
+      "permalink": "https://www.instagram.com/p/DDw325wyFfL/"
+    },
+    {
+      "type": "instagram_embed",
+      "permalink": "https://www.instagram.com/p/DRt1ghjkxfd/"
+    },
+    {
+      "type": "instagram_embed",
+      "permalink": "https://www.instagram.com/p/DHKmyWOSJ5s/"
+    },
+    {
+      "type": "instagram_embed",
+      "permalink": "https://www.instagram.com/p/DPD4pCGEwhW/"
+    },
+    {
+      "type": "instagram_embed",
+      "permalink": "https://www.instagram.com/p/DKmAFKti4MD/"
+    },
+    {
+      "type": "instagram_embed",
+      "permalink": "https://www.instagram.com/p/C8mCUfVBzKp/"
+    },
+    {
+      "type": "instagram_embed",
+      "permalink": "https://www.instagram.com/p/DUM7K3IE-I_/"
+    },
+    {
+      "type": "instagram_embed",
+      "permalink": "https://www.instagram.com/p/DH5exvqySkR/"
+    },
+    {
+      "type": "instagram_embed",
+      "permalink": "https://www.instagram.com/p/C_CdCaXPB6W/"
+    }
+  ],
+  "partners": [
+    {
+      "name": "羅技G",
+      "logo_path": "assets/partners/羅技G.webp"
+    },
+    {
+      "name": "ROG",
+      "logo_path": "assets/partners/ROG.webp"
+    },
+    {
+      "name": "Corsair海盜船",
+      "logo_path": "assets/partners/Corsair海盜船.webp"
+    },
+    {
+      "name": "Gravastar",
+      "logo_path": "assets/partners/Gravastar.webp"
+    },
+    {
+      "name": "Final",
+      "logo_path": "assets/partners/Final.webp"
+    },
+    {
+      "name": "SONY",
+      "logo_path": "assets/partners/SONY.webp"
+    },
+    {
+      "name": "NZXT",
+      "logo_path": "assets/partners/NZXT.webp"
+    },
+    {
+      "name": "FOSSIL",
+      "logo_path": "assets/partners/FOSSIL.webp"
+    },
+    {
+      "name": "7-Eleven",
+      "logo_path": "assets/partners/7-Eleven.webp"
+    },
+    {
+      "name": "Razer",
+      "logo_path": "assets/partners/Razer.webp"
+    },
+    {
+      "name": "EMMA",
+      "logo_path": "assets/partners/EMMA.webp"
+    },
+    {
+      "name": "COUGAR",
+      "logo_path": "assets/partners/COUGAR.webp"
+    },
+    {
+      "name": "BackBone",
+      "logo_path": "assets/partners/BackBone.webp"
+    },
+    {
+      "name": "BenQ",
+      "logo_path": "assets/partners/BenQ.webp"
+    },
+    {
+      "name": "POCO",
+      "logo_path": "assets/partners/POCO.webp"
+    },
+    {
+      "name": "RealMe",
+      "logo_path": "assets/partners/RealMe.webp"
+    },
+    {
+      "name": "ZOWIE",
+      "logo_path": "assets/partners/ZOWIE.webp"
+    },
+    {
+      "name": "FOXXRAY",
+      "logo_path": "assets/partners/FOXXRAY.webp"
+    },
+    {
+      "name": "CHAOS",
+      "logo_path": "assets/partners/CHAOS.webp"
+    },
+    {
+      "name": "Silicon Power",
+      "logo_path": "assets/partners/SiliconPower.webp"
+    },
+    {
+      "name": "ROCCAT",
+      "logo_path": "assets/partners/ROCCAT.webp"
+    },
+    {
+      "name": "Turtle Beach",
+      "logo_path": "assets/partners/TurtleBeach.webp"
+    },
+    {
+      "name": "FIFINE",
+      "logo_path": "assets/partners/FIFINE.webp"
+    },
+    {
+      "name": "Panasonic",
+      "logo_path": "assets/partners/Panasonic.webp"
+    },
+    {
+      "name": "RIOT GAMES",
+      "logo_path": "assets/partners/RIOTGAMES.webp"
+    },
+    {
+      "name": "NVIDIA",
+      "logo_path": "assets/partners/NVIDIA.webp"
+    },
+    {
+      "name": "高雄市政府",
+      "logo_path": "assets/partners/高雄市政府.webp"
+    }
+  ],
+  "contact": {
+    "kicker": {
+      "zh": "乖娛樂工作室",
+      "en": "GoodSon Studio"
+    },
+    "heading": {
+      "zh": "合作夥伴、宣傳活動、活動邀約",
+      "en": "Partnerships, Campaigns, Events"
+    },
+    "business_email": "goodwork0706@gmail.com",
+    "business_message": {
+      "zh": "合作、商業企劃、活動邀約請透過電子郵件與我們聯繫。",
+      "en": "For partnerships, commercial projects, and event invitations, please contact us by email."
+    },
+    "social_links": [
+      {
+        "label": "Twitch",
+        "url": "https://www.twitch.tv/goodson0706",
+        "icon": "Tw",
+        "logo_path": "assets/social/twitch.svg",
+        "color": "#9146ff"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/goodson0706/",
+        "icon": "IG",
+        "logo_path": "assets/social/instagram.svg",
+        "color": "#e4405f"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/GoodSon0706",
+        "icon": "Fb",
+        "logo_path": "assets/social/facebook.svg",
+        "color": "#1877f2"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@goodson0706",
+        "icon": "Tk",
+        "logo_path": "assets/social/tiktok.svg",
+        "color": "#111111"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/@goodson0706",
+        "icon": "Yt",
+        "logo_path": "assets/social/youtube.svg",
+        "color": "#ff0033"
+      }
+    ],
+    "email": "goodwork0706@gmail.com",
+    "visual_gif_path": "assets/乖哥螢光棒動圖.gif",
+    "visual_gif_alt": {
+      "zh": "乖哥螢光棒動圖",
+      "en": "GoodSon glow stick animation"
+    }
+  },
+  "page_heroes": {
+    "videos": {
+      "background_image": "assets/page-heroes/videos_bg.png",
+      "headline": {
+        "zh": "長&短開箱",
+        "en": "Long & Short Videos"
+      },
+      "subheadline": {
+        "zh": "長影片是人去找內容，短影片是內容去找人 \n從3C科技產品到生活好物",
+        "en": "Long videos are for people to find content, while short videos are for content to find people.\nFrom tech gadgets to lifestyle products."
+      },
+      "image_alt": {
+        "zh": "乖兒子拿著獎盃的分頁背景",
+        "en": "GoodSon holding a trophy page background"
+      }
+    },
+    "games": {
+      "background_image": "assets/page-heroes/games_bg.png",
+      "headline": {
+        "zh": "遊戲評測",
+        "en": "Game Reviews"
+      },
+      "subheadline": {
+        "zh": "用玩家的標準，重新定義遊戲\n深耕FPS領域，也喜歡跨足不同領域",
+        "en": "Redefining games through the player's standards.\nDeeply rooted in the FPS genre, while also eager to explore different genres."
+      },
+      "image_alt": {
+        "zh": "乖兒子拿著獎盃的遊戲評測背景",
+        "en": "GoodSon holding a trophy game reviews background"
+      }
+    },
+    "photography": {
+      "background_image": "assets/page-heroes/photography_bg.png",
+      "headline": {
+        "zh": "靜態圖文",
+        "en": "Photography"
+      },
+      "subheadline": {
+        "zh": "生活，本來就是最真實的開箱\n用照片留下熱愛與溫度",
+        "en": "Life is the most authentic unboxing.\nCapturing passion and warmth through photography."
+      },
+      "image_alt": {
+        "zh": "乖兒子拿著獎盃的靜態圖文背景",
+        "en": "GoodSon holding a trophy photography background"
+      }
+    },
+    "partners": {
+      "background_image": "assets/page-heroes/partners_bg.png",
+      "headline": {
+        "zh": "合作廠商",
+        "en": "Partners"
+      },
+      "subheadline": {
+        "zh": "為您打造客製化CP值服務",
+        "en": "Creating customized value-added services for our brand partners."
+      },
+      "image_alt": {
+        "zh": "乖兒子拿著獎盃的合作廠商背景",
+        "en": "GoodSon holding a trophy partners background"
+      }
+    }
+  },
+  "videos_instagram_posts": [
+    {
+      "type": "instagram_embed",
+      "permalink": "https://www.instagram.com/reel/DXtihcdkz7w/"
+    },
+    {
+      "type": "instagram_embed",
+      "permalink": "https://www.instagram.com/reel/DVN0m0hExTF/"
+    },
+    {
+      "type": "instagram_embed",
+      "permalink": "https://www.instagram.com/reel/DSCXIJgE_1H/"
+    },
+    {
+      "type": "instagram_embed",
+      "permalink": "https://www.instagram.com/reel/DPOHhT8krqe/"
+    },
+    {
+      "type": "instagram_embed",
+      "permalink": "https://www.instagram.com/reel/DKMVmFyvS3x/"
+    },
+    {
+      "type": "instagram_embed",
+      "permalink": "https://www.instagram.com/reel/DYWqAf1TCJM/"
+    },
+    {
+      "type": "instagram_embed",
+      "permalink": "https://www.instagram.com/reel/DTKdXMBk-8N/"
+    },
+    {
+      "type": "instagram_embed",
+      "permalink": "https://www.instagram.com/reel/DN0EQicZjRS/"
+    },
+    {
+      "type": "instagram_embed",
+      "permalink": "https://www.instagram.com/reel/DJRJTveSHOK/"
+    },
+    {
+      "type": "instagram_embed",
+      "permalink": "https://www.instagram.com/reel/DY6toFdzbnm/"
+    },
+    {
+      "type": "instagram_embed",
+      "permalink": "https://www.instagram.com/reel/DT41o0OE5hr/"
+    },
+    {
+      "type": "instagram_embed",
+      "permalink": "https://www.instagram.com/reel/DKjbRD4vaKQ/"
+    },
+    {
+      "type": "instagram_embed",
+      "permalink": "https://www.instagram.com/reel/C_ppCAqv9t1/"
+    },
+    {
+      "type": "instagram_embed",
+      "permalink": "https://www.instagram.com/reel/DPGbuJIk8yz/"
+    },
+    {
+      "type": "instagram_embed",
+      "permalink": "https://www.instagram.com/reel/DTsDqnXk3SL/"
+    },
+    {
+      "type": "instagram_embed",
+      "permalink": "https://www.instagram.com/reel/DZE-PWNS0bf/"
+    },
+    {
+      "type": "instagram_embed",
+      "permalink": "https://www.instagram.com/reel/DWjCpu6E0xY/"
+    },
+    {
+      "type": "instagram_embed",
+      "permalink": "https://www.instagram.com/reel/DWqlQdYkxO4/"
+    },
+    {
+      "type": "instagram_embed",
+      "permalink": "https://www.instagram.com/reel/DVGEiPZkwRi/"
+    },
+    {
+      "type": "instagram_embed",
+      "permalink": "https://www.instagram.com/reel/DRy6VT0k-85/"
+    },
+    {
+      "type": "instagram_embed",
+      "permalink": "https://www.instagram.com/reel/DNhbz3kSFxn/"
+    },
+    {
+      "type": "instagram_embed",
+      "permalink": "https://www.instagram.com/reel/DHvE51bSPuG/"
+    },
+    {
+      "type": "instagram_embed",
+      "permalink": "https://www.instagram.com/reel/DHdOTGASZ-Q/"
+    },
+    {
+      "type": "instagram_embed",
+      "permalink": "https://www.instagram.com/reel/DHxwjGOtsqB/"
+    }
+  ],
+  "videos_page": {
+    "sections": [
+      {
+        "key": "long-videos",
+        "type": "youtube",
+        "title": {
+          "zh": "長影音",
+          "en": "Long Videos"
+        },
+        "categories": [
+          {
+            "key": "keyboard",
+            "title": {
+              "zh": "鍵盤",
+              "en": "Keyboard"
+            },
+            "items": [
+              {
+                "title": {
+                  "zh": "",
+                  "en": ""
+                },
+                "description": {
+                  "zh": "",
+                  "en": ""
+                },
+                "youtube_id": "F9XcJ8Maqb0",
+                "thumbnail": ""
+              },
+              {
+                "title": {
+                  "zh": "",
+                  "en": ""
+                },
+                "description": {
+                  "zh": "",
+                  "en": ""
+                },
+                "youtube_id": "qSVJi5_W1Lo",
+                "thumbnail": ""
+              },
+              {
+                "title": {
+                  "zh": "",
+                  "en": ""
+                },
+                "description": {
+                  "zh": "",
+                  "en": ""
+                },
+                "youtube_id": "O4VGkrWw6QA",
+                "thumbnail": ""
+              },
+              {
+                "title": {
+                  "zh": "",
+                  "en": ""
+                },
+                "description": {
+                  "zh": "",
+                  "en": ""
+                },
+                "youtube_id": "kuDLzlxSmbM",
+                "thumbnail": ""
+              },
+              {
+                "title": {
+                  "zh": "",
+                  "en": ""
+                },
+                "description": {
+                  "zh": "",
+                  "en": ""
+                },
+                "youtube_id": "UZq2WIUZMl4",
+                "thumbnail": ""
+              },
+              {
+                "title": {
+                  "zh": "",
+                  "en": ""
+                },
+                "description": {
+                  "zh": "",
+                  "en": ""
+                },
+                "youtube_id": "NsS7Y_J-zXA",
+                "thumbnail": ""
+              },
+              {
+                "title": {
+                  "zh": "",
+                  "en": ""
+                },
+                "description": {
+                  "zh": "",
+                  "en": ""
+                },
+                "youtube_id": "BawOtwvoJ2c",
+                "thumbnail": ""
+              }
+            ]
+          },
+          {
+            "key": "mouse",
+            "title": {
+              "zh": "滑鼠",
+              "en": "Mouse"
+            },
+            "items": [
+              {
+                "title": {
+                  "zh": "",
+                  "en": ""
+                },
+                "description": {
+                  "zh": "",
+                  "en": ""
+                },
+                "youtube_id": "OL5Xe3UOqDU",
+                "thumbnail": ""
+              },
+              {
+                "title": {
+                  "zh": "",
+                  "en": ""
+                },
+                "description": {
+                  "zh": "",
+                  "en": ""
+                },
+                "youtube_id": "-oBByQ8Np8M",
+                "thumbnail": ""
+              },
+              {
+                "title": {
+                  "zh": "",
+                  "en": ""
+                },
+                "description": {
+                  "zh": "",
+                  "en": ""
+                },
+                "youtube_id": "PIFC2YVG6k8",
+                "thumbnail": ""
+              },
+              {
+                "title": {
+                  "zh": "",
+                  "en": ""
+                },
+                "description": {
+                  "zh": "",
+                  "en": ""
+                },
+                "youtube_id": "ZlyEZJAcaHw",
+                "thumbnail": ""
+              },
+              {
+                "title": {
+                  "zh": "",
+                  "en": ""
+                },
+                "description": {
+                  "zh": "",
+                  "en": ""
+                },
+                "youtube_id": "lxH2vxnAVFc",
+                "thumbnail": ""
+              },
+              {
+                "title": {
+                  "zh": "",
+                  "en": ""
+                },
+                "description": {
+                  "zh": "",
+                  "en": ""
+                },
+                "youtube_id": "WZ63IthLfaA",
+                "thumbnail": ""
+              }
+            ]
+          },
+          {
+            "key": "headset",
+            "title": {
+              "zh": "耳機",
+              "en": "Headset"
+            },
+            "items": [
+              {
+                "title": {
+                  "zh": "",
+                  "en": ""
+                },
+                "description": {
+                  "zh": "",
+                  "en": ""
+                },
+                "youtube_id": "0_MXt5xhY9Y",
+                "thumbnail": ""
+              },
+              {
+                "title": {
+                  "zh": "",
+                  "en": ""
+                },
+                "description": {
+                  "zh": "",
+                  "en": ""
+                },
+                "youtube_id": "SJkNcztttlM",
+                "thumbnail": ""
+              },
+              {
+                "title": {
+                  "zh": "",
+                  "en": ""
+                },
+                "description": {
+                  "zh": "",
+                  "en": ""
+                },
+                "youtube_id": "N4001oeViZk",
+                "thumbnail": ""
+              },
+              {
+                "title": {
+                  "zh": "",
+                  "en": ""
+                },
+                "description": {
+                  "zh": "",
+                  "en": ""
+                },
+                "youtube_id": "jab_0CNCqnM",
+                "thumbnail": ""
+              }
+            ]
+          },
+          {
+            "key": "other-3c-peripherals",
+            "title": {
+              "zh": "其它3C周邊",
+              "en": "Other 3C Peripherals"
+            },
+            "items": [
+              {
+                "title": {
+                  "zh": "",
+                  "en": ""
+                },
+                "description": {
+                  "zh": "",
+                  "en": ""
+                },
+                "youtube_id": "OTzBnWUVQH8",
+                "thumbnail": ""
+              },
+              {
+                "title": {
+                  "zh": "",
+                  "en": ""
+                },
+                "description": {
+                  "zh": "",
+                  "en": ""
+                },
+                "youtube_id": "a9fc2ADKGAY",
+                "thumbnail": ""
+              },
+              {
+                "title": {
+                  "zh": "",
+                  "en": ""
+                },
+                "description": {
+                  "zh": "",
+                  "en": ""
+                },
+                "youtube_id": "kMLjlK3Wni4",
+                "thumbnail": ""
+              },
+              {
+                "title": {
+                  "zh": "",
+                  "en": ""
+                },
+                "description": {
+                  "zh": "",
+                  "en": ""
+                },
+                "youtube_id": "kY8xOPc19tE",
+                "thumbnail": ""
+              },
+              {
+                "title": {
+                  "zh": "",
+                  "en": ""
+                },
+                "description": {
+                  "zh": "",
+                  "en": ""
+                },
+                "youtube_id": "AIFThxMhHk8",
+                "thumbnail": ""
+              },
+              {
+                "title": {
+                  "zh": "",
+                  "en": ""
+                },
+                "description": {
+                  "zh": "",
+                  "en": ""
+                },
+                "youtube_id": "w9sUGdK_mus",
+                "thumbnail": ""
+              },
+              {
+                "title": {
+                  "zh": "",
+                  "en": ""
+                },
+                "description": {
+                  "zh": "",
+                  "en": ""
+                },
+                "youtube_id": "RQKWEAwFj0g",
+                "thumbnail": ""
+              },
+              {
+                "title": {
+                  "zh": "",
+                  "en": ""
+                },
+                "description": {
+                  "zh": "",
+                  "en": ""
+                },
+                "youtube_id": "RQKWEAwFj0g",
+                "thumbnail": ""
+              },
+              {
+                "title": {
+                  "zh": "",
+                  "en": ""
+                },
+                "description": {
+                  "zh": "",
+                  "en": ""
+                },
+                "youtube_id": "zCdENIUo4SE",
+                "thumbnail": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "short-videos",
+        "type": "instagram_embed",
+        "title": {
+          "zh": "短影音",
+          "en": "Short Videos"
+        },
+        "categories": [
+          {
+            "key": "keyboard",
+            "title": {
+              "zh": "鍵盤",
+              "en": "Keyboard"
+            },
+            "items": [
+              {
+                "type": "instagram_embed",
+                "permalink": "https://www.instagram.com/reel/DXtihcdkz7w/"
+              },
+              {
+                "type": "instagram_embed",
+                "permalink": "https://www.instagram.com/reel/DVN0m0hExTF/"
+              },
+              {
+                "type": "instagram_embed",
+                "permalink": "https://www.instagram.com/reel/DSCXIJgE_1H/"
+              },
+              {
+                "type": "instagram_embed",
+                "permalink": "https://www.instagram.com/reel/DPOHhT8krqe/"
+              },
+              {
+                "type": "instagram_embed",
+                "permalink": "https://www.instagram.com/reel/DKMVmFyvS3x/"
+              },
+              {
+                "type": "instagram_embed",
+                "permalink": "https://www.instagram.com/reel/DYWqAf1TCJM/"
+              }
+            ]
+          },
+          {
+            "key": "mouse",
+            "title": {
+              "zh": "滑鼠",
+              "en": "Mouse"
+            },
+            "items": [
+              {
+                "type": "instagram_embed",
+                "permalink": "https://www.instagram.com/reel/DTKdXMBk-8N/"
+              },
+              {
+                "type": "instagram_embed",
+                "permalink": "https://www.instagram.com/reel/DN0EQicZjRS/"
+              },
+              {
+                "type": "instagram_embed",
+                "permalink": "https://www.instagram.com/reel/DJRJTveSHOK/"
+              },
+              {
+                "type": "instagram_embed",
+                "permalink": "https://www.instagram.com/reel/DY6toFdzbnm/"
+              }
+            ]
+          },
+          {
+            "key": "headset",
+            "title": {
+              "zh": "耳機",
+              "en": "Headset"
+            },
+            "items": [
+              {
+                "type": "instagram_embed",
+                "permalink": "https://www.instagram.com/reel/DT41o0OE5hr/"
+              },
+              {
+                "type": "instagram_embed",
+                "permalink": "https://www.instagram.com/reel/DKjbRD4vaKQ/"
+              },
+              {
+                "type": "instagram_embed",
+                "permalink": "https://www.instagram.com/reel/C_ppCAqv9t1/"
+              }
+            ]
+          },
+          {
+            "key": "other-products",
+            "title": {
+              "zh": "其它產品",
+              "en": "Other Products"
+            },
+            "items": [
+              {
+                "type": "instagram_embed",
+                "permalink": "https://www.instagram.com/reel/DPGbuJIk8yz/"
+              },
+              {
+                "type": "instagram_embed",
+                "permalink": "https://www.instagram.com/reel/DTsDqnXk3SL/"
+              },
+              {
+                "type": "instagram_embed",
+                "permalink": "https://www.instagram.com/reel/DZE-PWNS0bf/"
+              },
+              {
+                "type": "instagram_embed",
+                "permalink": "https://www.instagram.com/reel/DWjCpu6E0xY/"
+              },
+              {
+                "type": "instagram_embed",
+                "permalink": "https://www.instagram.com/reel/DWqlQdYkxO4/"
+              },
+              {
+                "type": "instagram_embed",
+                "permalink": "https://www.instagram.com/reel/DVGEiPZkwRi/"
+              },
+              {
+                "type": "instagram_embed",
+                "permalink": "https://www.instagram.com/reel/DRy6VT0k-85/"
+              },
+              {
+                "type": "instagram_embed",
+                "permalink": "https://www.instagram.com/reel/DNhbz3kSFxn/"
+              },
+              {
+                "type": "instagram_embed",
+                "permalink": "https://www.instagram.com/reel/DHvE51bSPuG/"
+              },
+              {
+                "type": "instagram_embed",
+                "permalink": "https://www.instagram.com/reel/DHdOTGASZ-Q/"
+              },
+              {
+                "type": "instagram_embed",
+                "permalink": "https://www.instagram.com/reel/DHxwjGOtsqB/"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "offer_blocks": [
+      {
+        "title": {
+          "zh": "【合作方案】",
+          "en": "Collaboration Plans"
+        },
+        "items": [
+          {
+            "zh": "純商業合作（付費合作）",
+            "en": "Paid commercial collaboration"
+          },
+          {
+            "zh": "分潤抽成",
+            "en": "Revenue share"
+          },
+          {
+            "zh": "產品互惠",
+            "en": "Product exchange"
+          },
+          {
+            "zh": "置入形式",
+            "en": "Placement formats"
+          },
+          {
+            "zh": "長期方案",
+            "en": "Long-term plans"
+          },
+          {
+            "zh": "品牌大使",
+            "en": "Brand ambassador"
+          },
+          {
+            "zh": "活動出席",
+            "en": "Event attendance"
+          }
+        ]
+      },
+      {
+        "title": {
+          "zh": "【影片規格】",
+          "en": "Video Specs"
+        },
+        "items": [
+          {
+            "zh": "長影音",
+            "en": "Long videos"
+          },
+          {
+            "zh": "6 分鐘以上",
+            "en": "6 minutes or longer"
+          },
+          {
+            "zh": "10 分鐘以上",
+            "en": "10 minutes or longer"
+          },
+          {
+            "zh": "短影音",
+            "en": "Short videos"
+          },
+          {
+            "zh": "60 秒以內",
+            "en": "Within 60 seconds"
+          },
+          {
+            "zh": "90 秒以內",
+            "en": "Within 90 seconds"
+          }
+        ]
+      },
+      {
+        "title": {
+          "zh": "【曝光平台】",
+          "en": "Exposure Platforms"
+        },
+        "items": [
+          {
+            "zh": "Youtube",
+            "en": "YouTube"
+          },
+          {
+            "zh": "Instagram",
+            "en": "Instagram"
+          },
+          {
+            "zh": "Facebook",
+            "en": "Facebook"
+          },
+          {
+            "zh": "Tiktok",
+            "en": "TikTok"
+          }
+        ]
+      },
+      {
+        "title": {
+          "zh": "【加值項目】",
+          "en": "Add-ons"
+        },
+        "items": [
+          {
+            "zh": "META廣告主",
+            "en": "META advertiser"
+          },
+          {
+            "zh": "影片素材授權",
+            "en": "Video asset licensing"
+          },
+          {
+            "zh": "Discord分享",
+            "en": "Discord sharing"
+          },
+          {
+            "zh": "限時動態",
+            "en": "Stories"
+          }
+        ]
+      }
+    ]
+  },
+  "games_page": {
+    "sections": [
+      {
+        "key": "game-reviews",
+        "type": "youtube",
+        "title": {
+          "zh": "遊戲評測",
+          "en": "Game Reviews"
+        },
+        "categories": [
+          {
+            "key": "shooter",
+            "title": {
+              "zh": "槍戰",
+              "en": "Shooter"
+            },
+            "items": [
+              {
+                "title": {
+                  "zh": "",
+                  "en": ""
+                },
+                "description": {
+                  "zh": "",
+                  "en": ""
+                },
+                "youtube_id": "ru3ekDtLs-k",
+                "thumbnail": ""
+              },
+              {
+                "title": {
+                  "zh": "",
+                  "en": ""
+                },
+                "description": {
+                  "zh": "",
+                  "en": ""
+                },
+                "youtube_id": "mjmXQkUekgA",
+                "thumbnail": ""
+              },
+              {
+                "title": {
+                  "zh": "",
+                  "en": ""
+                },
+                "description": {
+                  "zh": "",
+                  "en": ""
+                },
+                "youtube_id": "5zOplDproVg",
+                "thumbnail": ""
+              },
+              {
+                "title": {
+                  "zh": "",
+                  "en": ""
+                },
+                "description": {
+                  "zh": "",
+                  "en": ""
+                },
+                "youtube_id": "mjmXQkUekgA",
+                "thumbnail": ""
+              },
+              {
+                "title": {
+                  "zh": "",
+                  "en": ""
+                },
+                "description": {
+                  "zh": "",
+                  "en": ""
+                },
+                "youtube_id": "Vi68MgCEv_c",
+                "thumbnail": ""
+              },
+              {
+                "title": {
+                  "zh": "",
+                  "en": ""
+                },
+                "description": {
+                  "zh": "",
+                  "en": ""
+                },
+                "youtube_id": "eVKfsTlIc0s",
+                "thumbnail": ""
+              }
+            ]
+          },
+          {
+            "key": "other-genres",
+            "title": {
+              "zh": "其它類型",
+              "en": "Other Genres"
+            },
+            "items": [
+              {
+                "title": {
+                  "zh": "",
+                  "en": ""
+                },
+                "description": {
+                  "zh": "",
+                  "en": ""
+                },
+                "youtube_id": "orQ_897PjxM",
+                "thumbnail": ""
+              },
+              {
+                "title": {
+                  "zh": "",
+                  "en": ""
+                },
+                "description": {
+                  "zh": "",
+                  "en": ""
+                },
+                "youtube_id": "HVy5zU1NDU8",
+                "thumbnail": ""
+              },
+              {
+                "title": {
+                  "zh": "",
+                  "en": ""
+                },
+                "description": {
+                  "zh": "",
+                  "en": ""
+                },
+                "youtube_id": "eBcasYoWZO8",
+                "thumbnail": ""
+              },
+              {
+                "title": {
+                  "zh": "",
+                  "en": ""
+                },
+                "description": {
+                  "zh": "",
+                  "en": ""
+                },
+                "youtube_id": "A6ElMshvnR8",
+                "thumbnail": ""
+              },
+              {
+                "title": {
+                  "zh": "",
+                  "en": ""
+                },
+                "description": {
+                  "zh": "",
+                  "en": ""
+                },
+                "youtube_id": "Y8fviumQYEc",
+                "thumbnail": ""
+              },
+              {
+                "title": {
+                  "zh": "",
+                  "en": ""
+                },
+                "description": {
+                  "zh": "",
+                  "en": ""
+                },
+                "youtube_id": "s5NK7N5TYms",
+                "thumbnail": ""
+              }
+            ]
+          },
+          {
+            "key": "mobile-games",
+            "title": {
+              "zh": "手遊",
+              "en": "Mobile Games"
+            },
+            "items": [
+              {
+                "title": {
+                  "zh": "",
+                  "en": ""
+                },
+                "description": {
+                  "zh": "",
+                  "en": ""
+                },
+                "youtube_id": "Leo68udYv-U",
+                "thumbnail": ""
+              },
+              {
+                "title": {
+                  "zh": "",
+                  "en": ""
+                },
+                "description": {
+                  "zh": "",
+                  "en": ""
+                },
+                "youtube_id": "t2EeWnobQSY",
+                "thumbnail": ""
+              },
+              {
+                "title": {
+                  "zh": "",
+                  "en": ""
+                },
+                "description": {
+                  "zh": "",
+                  "en": ""
+                },
+                "youtube_id": "koC3BA1TNmw",
+                "thumbnail": ""
+              },
+              {
+                "title": {
+                  "zh": "",
+                  "en": ""
+                },
+                "description": {
+                  "zh": "",
+                  "en": ""
+                },
+                "youtube_id": "ZAq-ILbqU6w",
+                "thumbnail": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "offer_blocks": [
+      {
+        "title": {
+          "zh": "【合作方案】",
+          "en": "Collaboration Plans"
+        },
+        "items": [
+          {
+            "zh": "純商業合作（付費合作）",
+            "en": "Paid commercial collaboration"
+          },
+          {
+            "zh": "置入形式",
+            "en": "Placement formats"
+          },
+          {
+            "zh": "實況直播",
+            "en": "Live streaming"
+          }
+        ]
+      },
+      {
+        "title": {
+          "zh": "【影片規格】",
+          "en": "Video Specs"
+        },
+        "items": [
+          {
+            "zh": "長影音",
+            "en": "Long videos"
+          },
+          {
+            "zh": "6 分鐘以上",
+            "en": "6 minutes or longer"
+          },
+          {
+            "zh": "10 分鐘以上",
+            "en": "10 minutes or longer"
+          },
+          {
+            "zh": "短影音",
+            "en": "Short videos"
+          },
+          {
+            "zh": "60 秒以內",
+            "en": "Within 60 seconds"
+          },
+          {
+            "zh": "90 秒以內",
+            "en": "Within 90 seconds"
+          }
+        ]
+      },
+      {
+        "title": {
+          "zh": "【曝光平台】",
+          "en": "Exposure Platforms"
+        },
+        "items": [
+          {
+            "zh": "Youtube",
+            "en": "YouTube"
+          },
+          {
+            "zh": "Instagram",
+            "en": "Instagram"
+          },
+          {
+            "zh": "Facebook",
+            "en": "Facebook"
+          },
+          {
+            "zh": "Tiktok",
+            "en": "TikTok"
+          }
+        ]
+      },
+      {
+        "title": {
+          "zh": "【加值項目】",
+          "en": "Add-ons"
+        },
+        "items": [
+          {
+            "zh": "META廣告主",
+            "en": "META advertiser"
+          },
+          {
+            "zh": "影片素材授權",
+            "en": "Video asset licensing"
+          },
+          {
+            "zh": "Discord分享",
+            "en": "Discord sharing"
+          },
+          {
+            "zh": "限時動態",
+            "en": "Stories"
+          }
+        ]
+      }
+    ]
+  },
+  "photography_page": {
+    "offer_blocks": [
+      {
+        "title": {
+          "zh": "【合作方案】",
+          "en": "Collaboration Plans"
+        },
+        "items": [
+          {
+            "zh": "純商業合作（付費合作）",
+            "en": "Paid commercial collaboration"
+          },
+          {
+            "zh": "分潤抽成",
+            "en": "Revenue share"
+          },
+          {
+            "zh": "產品互惠",
+            "en": "Product exchange"
+          },
+          {
+            "zh": "長期方案",
+            "en": "Long-term plans"
+          },
+          {
+            "zh": "品牌大使",
+            "en": "Brand ambassador"
+          }
+        ]
+      },
+      {
+        "title": {
+          "zh": "【圖文規格】",
+          "en": "Photo Specs"
+        },
+        "items": [
+          {
+            "zh": "橫式or直式",
+            "en": "Horizontal or vertical"
+          },
+          {
+            "zh": "純產品拍攝",
+            "en": "Product-only shoot"
+          },
+          {
+            "zh": "人像&產品拍攝",
+            "en": "Portrait and product shoot"
+          }
+        ]
+      },
+      {
+        "title": {
+          "zh": "【曝光平台】",
+          "en": "Exposure Platforms"
+        },
+        "items": [
+          {
+            "zh": "Instagram",
+            "en": "Instagram"
+          },
+          {
+            "zh": "Facebook",
+            "en": "Facebook"
+          }
+        ]
+      },
+      {
+        "title": {
+          "zh": "【加值項目】",
+          "en": "Add-ons"
+        },
+        "items": [
+          {
+            "zh": "META廣告主",
+            "en": "META advertiser"
+          },
+          {
+            "zh": "影片素材授權",
+            "en": "Video asset licensing"
+          },
+          {
+            "zh": "Discord分享",
+            "en": "Discord sharing"
+          },
+          {
+            "zh": "限時動態",
+            "en": "Stories"
+          }
+        ]
+      }
+    ]
+  }
+}
