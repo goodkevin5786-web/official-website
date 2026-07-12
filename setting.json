@@ -169,6 +169,7 @@
   },
   "home": {
     "video_bg": "assets/hero_bg.mp4",
+    "video_poster": "assets/hero_bg_poster.png",
     "logo_path": "assets/logo_transparent.png",
     "logo_alt": {
       "zh": "GoodSon Studio logo",
@@ -768,7 +769,7 @@
   "partners": [
     {
       "name": "羅技G",
-      "logo_path": "assets/partners/羅技G.webp"
+      "logo_path": "assets/partners/LogitechG.webp"
     },
     {
       "name": "ROG",
@@ -776,7 +777,7 @@
     },
     {
       "name": "Corsair海盜船",
-      "logo_path": "assets/partners/Corsair海盜船.webp"
+      "logo_path": "assets/partners/Corsair.webp"
     },
     {
       "name": "Gravastar",
@@ -872,7 +873,7 @@
     },
     {
       "name": "高雄市政府",
-      "logo_path": "assets/partners/高雄市政府.webp"
+      "logo_path": "assets/partners/KaohsiungCityGovernment.webp"
     }
   ],
   "contact": {
@@ -927,7 +928,7 @@
       }
     ],
     "email": "goodwork0706@gmail.com",
-    "visual_gif_path": "assets/乖哥螢光棒動圖.gif",
+    "visual_gif_path": "assets/goodson-lightstick.gif",
     "visual_gif_alt": {
       "zh": "乖哥螢光棒動圖",
       "en": "GoodSon glow stick animation"

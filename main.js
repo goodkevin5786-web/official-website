@@ -71,6 +71,7 @@ const appState = {
   rootPath: document.body.dataset.rootPath || "./",
   settingsPath: document.body.dataset.settingsPath || "./setting.json",
   currentPage: (document.body.dataset.page || "home").toLowerCase(),
+  baseTitle: null,
   menuOpen: false,
   oembedCache: new Map(),
   visibleSections: new Set(),
@@ -185,7 +186,6 @@ function renderSite() {
 function applyDocumentMeta(siteConfig) {
   const siteTitle = pickLocalized(siteConfig.site_title);
   if (siteTitle && dom.brandLink) {
-    document.title = siteTitle;
     dom.brandLink.textContent = siteTitle;
     dom.brandLink.setAttribute("aria-label", siteTitle);
   }
@@ -193,8 +193,34 @@ function applyDocumentMeta(siteConfig) {
     dom.brandLink.href = buildRouteHref("home");
   }
 
+  applyDocumentTitle(siteConfig, siteTitle);
+
   const languageTag = pickLocalized(siteConfig.language_tag);
   document.documentElement.lang = languageTag || appState.language;
+}
+
+function applyDocumentTitle(siteConfig, siteTitle) {
+  // Capture the per-page static <title> once so it survives re-renders and
+  // language switches (it is set per page in the HTML for SEO).
+  if (!appState.baseTitle) {
+    appState.baseTitle = document.title;
+  }
+
+  if (appState.currentPage === "home") {
+    document.title = appState.baseTitle || siteTitle;
+    return;
+  }
+
+  const sectionTitles = siteConfig.section_titles || {};
+  const sectionTitle = pickLocalized(sectionTitles[appState.currentPage])
+    .replace(/\s+/g, " ")
+    .trim();
+
+  if (sectionTitle && siteTitle) {
+    document.title = `${sectionTitle}｜${siteTitle}`;
+  } else if (appState.baseTitle) {
+    document.title = appState.baseTitle;
+  }
 }
 
 function applyTheme(themeColors) {
@@ -334,6 +360,8 @@ function renderHero(home) {
   dom.heroLogo.onerror = () => {
     dom.heroLogo.style.display = "none";
   };
+
+  dom.heroVideo.poster = resolveAssetPath(home.video_poster || "");
 
   dom.heroVideo.replaceChildren();
   if (home.video_bg) {
